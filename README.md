@@ -72,15 +72,13 @@ Fiber optic links can be used for transmission of both digital and analog signal
 
 ## TABULATION
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain (dB) |
-|----------------|-------------------------------|--------------|-----------|
-|                |                               |              |           |
-|                |                               |              |           |
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9cad0647-8809-4386-a370-ad913504bb60" />
+
 
 ---
 
 ## MODEL GRAPH
-*(Attach plotted graph of Gain vs Frequency here)*
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/1b2e7c02-8065-400d-abf3-3b26b1652e63" />
 
 ---
 
